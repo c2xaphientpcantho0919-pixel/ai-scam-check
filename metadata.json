@@ -1,0 +1,6 @@
+{
+  "name": "AI SCAM CHECK – TRƯỜNG TRUNG HỌC CƠ SỞ XÀ PHIÊN",
+  "description": "Trợ lý nhận diện và ứng phó với lừa đảo trực tuyến dành cho học sinh THCS Xà Phiên. Quy trình chuẩn 4 bước: Dừng - Kiểm tra - Xác minh - Báo cáo, nhận diện deepfake và bảo vệ an toàn số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
